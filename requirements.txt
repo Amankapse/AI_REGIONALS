@@ -1,0 +1,14 @@
+flask
+gunicorn
+opencv-python
+numpy
+torch
+ultralytics
+jinja2
+Flask-Session
+ultralytics>=8.0.0
+opencv-python
+numpy
+pyttsx3
+vosk
+sounddevice
